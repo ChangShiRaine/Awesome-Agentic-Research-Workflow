@@ -1,2 +1,40 @@
 # Awesome-Agentic-Research-Workflow
-Tools and resources to help researchers construct their own highly efficient agentic research workflow
+A list of tools and resources to help researchers construct their own highly efficient agentic research workflow.
+
+
+
+## Literature
+- Zotero
+
+## Research Idea/ Notes/ Project Management
+- Obsidian
+- Notion
+
+## Coding
+- Cursor
+- Claude Code
+- Antigravity
+
+## Writing
+- Prism
+
+## Figure Drawing
+- draw.io
+- Nano Banana Pro
+
+## Slide Deck
+- NotebookLM
+
+## Review
+- AAAI AI review system
+
+## News
+- Hacker News
+
+## Reserach News
+- X
+- Huggingface Daily Papers
+
+## Workflow
+- Openclaw
+
