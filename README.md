@@ -12,7 +12,7 @@ A list of tools and resources to help researchers construct their own highly eff
 
 ## Coding
 - Cursor
-- Claude Code
+- [Claude Code](https://anthropic.skilljar.com/claude-code-in-action)
 - Antigravity
 
 ## Writing
@@ -37,4 +37,8 @@ A list of tools and resources to help researchers construct their own highly eff
 
 ## Workflow
 - Openclaw
+- [Github Agentic Workflow](https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/)
+
+## Resources
+- [Guide to building skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
 
